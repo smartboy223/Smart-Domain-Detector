@@ -1,5 +1,5 @@
 # Smart Domain Detector
-
+> ⚠️ Security Research Tool – Use responsibly and only on systems you own or have permission to test.
 <p align="center">
   <img src="images/1.png" alt="Smart Domain Detector logo" width="760" />
 </p>

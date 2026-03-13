@@ -236,14 +236,6 @@ That usually means one of these is true:
 
 Archive providers can be inconsistent across domains. Smart Domain Detector already retries and focuses on higher-value hosts first, but some targets genuinely return less historical data.
 
-## GitHub-ready notes
-
-- ✅ Source only: generated logs, databases, caches, and build output are ignored
-- ✅ Docker-first install path documented
-- ✅ Screenshots included
-- ✅ Saved reports persist locally
-- ✅ Exported reports are structured for downstream verification and reporting
-
 ---
 
 ## Version
